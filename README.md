@@ -1,2 +1,1 @@
-# This project was created using STM32CubeMX software. Just select your board and activate 
-# the peripherals you want and the software will generate the APIs for your code
+This project was created using STM32CubeMX software. This software is very easy to use because youy just select your board and activate the peripherals you want and the software will generate the APIs for your code.
